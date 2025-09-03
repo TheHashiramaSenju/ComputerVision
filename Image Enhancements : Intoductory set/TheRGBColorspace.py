@@ -26,3 +26,9 @@ arr = np.array([[[ 0, 0, 255 ] , [ 0, 0 , 255 ] ,[ 0, 0 , 255 ]],
                 [[ 0, 0 , 255 ] , [ 0, 0 , 255 ] ,[ 0, 0 , 255 ]]])
 plt.imshow(arr)
 
+#for a RGB pattern we get something like 
+#Creating a RED GREEN BLUE Pattern
+arr = np.array([[[ 255,0,0 ] , [ 255,0,0 ] ,[ 255,0,0 ]],
+                [[ 0,255,0 ] , [ 0,255,0 ] ,[ 0,255,0 ]],
+                [[ 0,0,255 ] , [ 0,0,255 ] ,[ 0,0,255 ]]])  #as we can observe that the colour beautifully change as the value inside bracket of brackets changes
+plt.imshow(arr)
