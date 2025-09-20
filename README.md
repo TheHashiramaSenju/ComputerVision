@@ -1,3 +1,4 @@
+<div align="center">
 
 # Computer Vision Learning Journey 🎯
 
@@ -10,6 +11,7 @@
 [![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/TheHashiramaSenju)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
+</div>
 
 > 🤖 A comprehensive weekend tutorial collection for computer vision fundamentals using OpenCV, NumPy, and Python. Perfect for students wanting hands-on experience with image processing and real-world applications!
 
@@ -323,16 +325,18 @@ SOFTWARE.
 **Happy Learning! 🎉**  
 *Remember: The best way to learn computer vision is by experimenting. Don't be afraid to modify the code and see what happens!*
 
-[1](https://realpython.com/python-project-documentation-with-mkdocs/)
-[2](https://www.mkdocs.org/user-guide/writing-your-docs/)
-[3](https://github.com/mkdocs/mkdocs)
-[4](https://www.honeybadger.io/blog/python-markdown/)
-[5](https://towardsdatascience.com/documenting-python-projects-with-mkdocs-60e26b64380e/)
-[6](https://stackoverflow.com/questions/58960478/python-library-for-dynamic-documents)
-
 
 ---
+
+
+
+
+<div align="center">
 
 [![GitHub stars](https://img.shields.io/github/stars/TheHashiramaSenju/ComputerVision.svg?style=social&label=Star)](https://github.com/TheHashiramaSenju/ComputerVision)
 [![GitHub forks](https://img.shields.io/github/forks/TheHashiramaSenju/ComputerVision.svg?style=social&label=Fork)](https://github.com/TheHashiramaSenju/ComputerVision/fork)
 [![GitHub watchers](https://img.shields.io/github/watchers/TheHashiramaSenju/ComputerVision.svg?style=social&label=Watch)](https://github.com/TheHashiramaSenju/ComputerVision)
+
+
+</div>
+
